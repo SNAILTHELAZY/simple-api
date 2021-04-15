@@ -9,5 +9,5 @@ You will learn how to write codes without writing too many callbacks, and you wi
 ## How to use it
 1. clone the repo
 2. type `npm i` in your terminal, when the current working directory is under where you store this.
-3. make a .env file and add DATABASE_URL=<connection string of your mongodb>
+3. make a .env file and add DATABASE_URL=\<connection string of your mongodb\>
 4. just type `npm run start` to run it, or `npm run devStart` for demo while modified it.
